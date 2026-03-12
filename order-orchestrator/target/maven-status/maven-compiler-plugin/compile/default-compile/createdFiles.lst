@@ -1,0 +1,7 @@
+com\benicio\orchestrator\domain\Order$OrderBuilder.class
+com\benicio\orchestrator\repository\OrderRepository.class
+com\benicio\orchestrator\domain\Order.class
+com\benicio\orchestrator\service\OrderSagaService.class
+com\benicio\orchestrator\controller\OrderController.class
+com\benicio\orchestrator\domain\OrderStatus.class
+com\benicio\orchestrator\OrchestratorApp.class

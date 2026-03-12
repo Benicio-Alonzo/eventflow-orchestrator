@@ -1,0 +1,4 @@
+com\benicio\common\events\InventoryProcessedEvent.class
+com\benicio\common\events\OrderCreatedEvent.class
+com\benicio\common\events\PaymentProcessedEvent.class
+com\benicio\common\events\OrderEvent.class

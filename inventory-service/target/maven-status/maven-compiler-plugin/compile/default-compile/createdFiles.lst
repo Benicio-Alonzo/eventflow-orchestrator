@@ -1,0 +1,5 @@
+com\benicio\inventory\domain\ProductInventory$ProductInventoryBuilder.class
+com\benicio\inventory\service\InventoryListener.class
+com\benicio\inventory\repository\InventoryRepository.class
+com\benicio\inventory\InventoryApp.class
+com\benicio\inventory\domain\ProductInventory.class
